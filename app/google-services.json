@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "102046040792",
+    "firebase_url": "https://realtimedatabasepush.firebaseio.com",
+    "project_id": "realtimedatabasepush",
+    "storage_bucket": "realtimedatabasepush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102046040792:android:178a4a36bfcacd9d",
+        "android_client_info": {
+          "package_name": "comp.example.hreday.realtimedatabasepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102046040792-n1fq67vkc657c32em1h239t0s62c5ale.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAmKMcvb9bG8rskunv9Be8hUSdMZ2TlrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
